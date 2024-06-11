@@ -1,5 +1,5 @@
 ### Project Name:
-Personal Portfolio Website
+Personal Portfolio Website displaying EJS Partials
 
 ### Brief Explanation:
 This project involves creating a personal portfolio website using the Express.js framework and EJS templating engine. The site comprises three main pages: Home, About, and Contact, each rendered dynamically using EJS templates. It showcases the creator's academic achievements, skills, and provides a contact form for visitors to reach out.
